@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/evsyukoff/" target="_blank">Andrii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Frontend developer</h2>
-=================================================================================================
+
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [av.evsukoff@gmail.com](mailto:av.evsukoff@gmail.com)
@@ -86,12 +86,11 @@
 <br/>  
 
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Andrey-EOFF"><img src="https://github-readme-stats.vercel.app/api?username=Andrey-EOFF&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&show_icons=true" alt="Andrey-EOFF's GitHub stats" /></a>
+## Statistics 
 
-<a href="http://www.github.com/Andrey-EOFF"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey-EOFF&stroke=ffffff&background=312e81&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Andrey-EOFF"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Andrey-EOFF&bg_color=312e81&color=ffffff&line=facc15&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Andrey-EOFF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-EOFF&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center" style="width: 60%; margin: 0 auto;">
+    <a href="https://github.com/Andrey-EOFF" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-EOFF&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+</div>
