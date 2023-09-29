@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/evsyukoff/" target="_blank">Andrii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer</h3>
+<h2 align="center">Frontend developer</h2>
 =================================================================================================
 
 * 🌍  I'm based in Kyiv
@@ -8,13 +8,11 @@
 * 🚀  I'm currently working on [auto-rent-ua](http://github.com/Andrey-EOFF/auto-rent-ua)
 * 🧠  I'm learning TypeScript and MySQL
 
-<a href="https://www.github.com/Andrey-EOFF" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Andrey-EOFF?logo=github&style=for-the-badge&color=facc15&labelColor=312e81" /></a>
-
-### Skills
+<a href="https://www.github.com/Andrey-EOFF" target="_blank" rel="noreferrer">
 
 
-## My Skill Set  
+
+## My Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -51,17 +49,42 @@ src="https://img.shields.io/github/followers/Andrey-EOFF?logo=github&style=for-t
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
+
+
 </td><td valign="top" width="33%">
 
+### Courses  
+ <h4>GOIT - Fullstack Developer</h4>
+    <p>Період навчання: з 08.2022 по 09.2023</p>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7105935163586469888/">Перейти до сертифікату</a></li>
 
+ <h4>IT-Gid</h4><span>JS, React, Function, Arrays</span>
+    <p>Self-education</p>
 
 </td></tr></table>  
 
-### Socials
 
-<p align="left"> <a href="https://www.facebook.com/andrej.evsukov.7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Andrey-EOFF" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/evsyukoff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## Connect with me  
+<div align="center">
+<a href="https://t.me/GurUOFF" target="_blank">
+        <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+    </a>
+     <a href="https://www.linkedin.com/in/evsyukoff/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://github.com/Andrey-EOFF" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.facebook.com/andrej.evsukov.7" target="_blank">
+        <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+    </a>
+   
+    
+</div>
+
+<br/>  
+
 
 <b>My GitHub Stats</b>
 
