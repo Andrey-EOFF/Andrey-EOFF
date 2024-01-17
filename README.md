@@ -5,8 +5,6 @@
 
 * 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [av.evsukoff@gmail.com](mailto:av.evsukoff@gmail.com)
-* 🚀  I'm currently working on [auto-rent-ua](http://github.com/Andrey-EOFF/auto-rent-ua)
-* 🧠  I'm learning TypeScript and MySQL
 
 <a href="https://www.github.com/Andrey-EOFF" target="_blank" rel="noreferrer">
 
